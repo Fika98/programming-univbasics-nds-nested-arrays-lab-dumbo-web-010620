@@ -48,6 +48,7 @@ def matrix_lookup(matrix, row, column)
         ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
       
   matrix[row][column]
+  return matrix
   
 
 end
