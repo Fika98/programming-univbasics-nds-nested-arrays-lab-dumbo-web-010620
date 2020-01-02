@@ -47,12 +47,12 @@ def matrix_lookup(matrix, row, column)
         ["Grapefruit","Pineapple","Oranges","Watermelon", "Eggplant"],
         ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
       
-  matrix[row][column]
+  array[row][column]
   return matrix
   
 
 end
-  matrix_lookup(matrix,0,1)
+  matrix_lookup(array,0,1)
 
 
 
