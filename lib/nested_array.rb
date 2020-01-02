@@ -51,7 +51,7 @@ def matrix_lookup(matrix, row, column)
   
 
 end
-  matrix_lookup(array,0,1)
+  matrix_lookup(matrix,0,1)
 
 
 
